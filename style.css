@@ -1,0 +1,15 @@
+* {
+    font-family: fantasy;
+}
+
+:root {
+    --custom-color: red;
+}
+
+.custom {
+    color: var(--custom-color);
+}
+
+.custom-bg {
+    background: var(--custom-color);
+}
